@@ -1,2 +1,2 @@
 # Pagerank-algorithm
-Optimizing Pagerank algorithm using Pthreads
+Optimized Pagerank algorithm using Pthreads
