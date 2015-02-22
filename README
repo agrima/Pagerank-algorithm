@@ -1,0 +1,14 @@
+problem2 is named as pr_pthreads.c
+
+it can be compiled using command
+
+$g++ -lpthread pr_pthreads.cpp
+
+then the output file ./a.out is created which can be run by using command:
+
+$./a.out DATASET_NAME NUM_OF_THREADS
+
+
+the output will contain all the pageranks and time it took to execute in seconds.
+
+Output will be displayed on the terminal. To put it into a file use Redirection from console.
